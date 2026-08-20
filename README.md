@@ -161,7 +161,7 @@ python mono/tools/test_scale_cano.py \
 ├── options_lite.py          # command-line options
 ├── loss_functions.py        # depth distillation loss
 ├── hubconf.py               # Metric3D torch.hub interface
-├── datasets/                # KITTI / NYU loaders
+├── datasets/                # dataloaders
 ├── litenetworks/            # Lite-Mono student
 ├── mono/                    # Metric3D teacher
 │   ├── configs/
